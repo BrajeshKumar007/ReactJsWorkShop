@@ -1,6 +1,6 @@
 {
   "name": "diagnal",
-  "homepage": "https://github.com/BrajeshKumar007/ReactJsWorkShop",
+  "homepage": "https://BrajeshKumar007.github.io/ReactJsWorkShop",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -14,6 +14,8 @@
     "@types/node": "^12.0.0",
     "@types/react": "^17.0.0",
     "@types/react-dom": "^17.0.0",
+    "env-cmd": "^10.1.0",
+    "gh-pages": "^6.0.0",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-infinite-scroll-component": "^6.1.0",
@@ -26,7 +28,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [

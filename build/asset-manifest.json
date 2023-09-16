@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/ReactJsWorkShop/static/css/main.773c7ed6.chunk.css",
+    "main.js": "/ReactJsWorkShop/static/js/main.00862f04.chunk.js",
+    "main.js.map": "/ReactJsWorkShop/static/js/main.00862f04.chunk.js.map",
+    "runtime-main.js": "/ReactJsWorkShop/static/js/runtime-main.4c45faed.js",
+    "runtime-main.js.map": "/ReactJsWorkShop/static/js/runtime-main.4c45faed.js.map",
+    "static/js/2.31bc9382.chunk.js": "/ReactJsWorkShop/static/js/2.31bc9382.chunk.js",
+    "static/js/2.31bc9382.chunk.js.map": "/ReactJsWorkShop/static/js/2.31bc9382.chunk.js.map",
+    "static/js/3.4286c10d.chunk.js": "/ReactJsWorkShop/static/js/3.4286c10d.chunk.js",
+    "static/js/3.4286c10d.chunk.js.map": "/ReactJsWorkShop/static/js/3.4286c10d.chunk.js.map",
+    "static/css/4.1251d58d.chunk.css": "/ReactJsWorkShop/static/css/4.1251d58d.chunk.css",
+    "static/js/4.8f01ae6f.chunk.js": "/ReactJsWorkShop/static/js/4.8f01ae6f.chunk.js",
+    "static/js/4.8f01ae6f.chunk.js.map": "/ReactJsWorkShop/static/js/4.8f01ae6f.chunk.js.map",
+    "index.html": "/ReactJsWorkShop/index.html",
+    "static/css/4.1251d58d.chunk.css.map": "/ReactJsWorkShop/static/css/4.1251d58d.chunk.css.map",
+    "static/css/main.773c7ed6.chunk.css.map": "/ReactJsWorkShop/static/css/main.773c7ed6.chunk.css.map",
+    "static/js/2.31bc9382.chunk.js.LICENSE.txt": "/ReactJsWorkShop/static/js/2.31bc9382.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4c45faed.js",
+    "static/js/2.31bc9382.chunk.js",
+    "static/css/main.773c7ed6.chunk.css",
+    "static/js/main.00862f04.chunk.js"
+  ]
+}
